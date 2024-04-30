@@ -1,1 +1,1 @@
-LABAN
+this is a sample repository
